@@ -32,7 +32,7 @@ mesma ordem em que aparecem na entrada.
 com parte decimal são representados usando o ponto final e não a vı́rgula.
 • Sua resposta deve estar em um único arquivo chamado RL0Q1.[java, py, js, c, cpp, etc]
 • Você deve ler o arquivo L0Q1.in e escrever o arquivo L0Q1.out no mesmo diretório onde estiver
-rodando seu código RL0Q1.[java, py, js, c, cpp, etc]jose.dihego@ifba.edu.br
+rodando seu código RL0Q1.[java, py, js, c, cpp, etc]
 • Não deve ser usado nenhum recurso de ordenação da linguagem de programação de sua escolha
 • Pode e vai haver mais de uma linha na estrada
 • O número de linhas na entrada deve ser o mesmo da saı́da, ou seja cada linha da entrada
